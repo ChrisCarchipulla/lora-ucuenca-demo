@@ -1,2 +1,2 @@
 # Github tutorial
-vue es 
+Verificación del correcto funcionamiento de GitHub Actions
