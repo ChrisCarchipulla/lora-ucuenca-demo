@@ -1,3 +1,2 @@
 # Github tutorial
-Verificación del correcto funcionamiento de GitHub Actions
-HOLAAA
+Verificación del correcto funcionamiento de GitHub
